@@ -1,2 +1,2 @@
 # listaStruct - C
-Lista de exercícios de Struct em linguagem C
+Lista de exercícios de **Struct** em linguagem C
